@@ -1,0 +1,9 @@
+
+{
+  "name": "ilbike",
+  "version": "0.1.3",
+  "title": "Bike Mod for Ilnor",
+  "author": "FreeER",
+  "description": "Adds a cheap bike and a hoverbike",
+  "dependencies": ["base"]
+}
